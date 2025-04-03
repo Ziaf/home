@@ -53,8 +53,29 @@ Many people use a git client to create files on their local computer and then pu
 
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png) 
+
+
+## Recent News
+
+* **February 2025** Our work on "Developing Approaches to Incorporate Donor Lung CT Images into Machine Learning Models to Predict Severe Primary Graft Dysfunction after Lung Transplantation" is available online at American Journal of Transplanation. Link to [paper](https://www.sciencedirect.com/science/article/pii/S1600613525000450).
+* **January 2025** Our work on "Multimodal Variational Autoencoder: a Barycentric View" has been accepted in AAAI 2025 as an **oral** presentation. [Preprint](https://arxiv.org/pdf/2412.20487) available.
+* **December 2024** I successfully defended my PhD dissertation titled "Multimodal representation learning frameworks for modeling progression and heterogeneity in Alzheimer's Disease"
+* **October 2024** Our work on [Examining heterogeneity in dementia using data-driven unsupervised clustering of cognitive profiles](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0313425) has been published in PlOS One.
+* **September 2024** Our JAMIA Open paper [HiMAL: Multimodal Hierarchical Multi-task Auxiliary Learning framework for predicting Alzheimer’s disease progression](https://academic.oup.com/jamiaopen/article/7/3/ooae087/7759862?login=true) is now published and online.
+* **May 2024**: Presented my research (poster) in IEEE ISBI 2024, Athens, Greece.
+* **May 2024**: Received Honors (**top 5%**) in the Periodic Review of Doctoral Students (**PRODS 2024**) in WashU CSE
+* **February 2024**: Paper on Improving multimodal normative modelling using mixture-of-products variational autoencoders accepted in the [IEEE ISBI 2024](https://biomedicalimaging.org/2024/). [Preprint](https://arxiv.org/pdf/2312.00992.pdf) available in ArXiv.
+* **October 2023**: 2 NeurIPS 2023 workshop papers accepted in [XAI-in-action](https://xai-in-action.github.io/) and [Deep Generative Models for Health (DGM4H)](https://sites.google.com/ethz.ch/dgm4h-neurips2023)
+* **May 2023**: Received Honors (**top 5%**) in the Periodic Review of Doctoral Students (**PRODS 2023**) in WashU CSE
+* **February 2023**: Received Student travel award and Robert F. Wagner All-Conference Best Paper Award Finalist at [SPIE Medical Imaging 2023](https://spie.org/conferences-and-exhibitions/medical-imaging/program#_=_)
+* **November 2022**: Oral [paper](https://doi.org/10.1117/12.2654369) on multimodal normative modelling accepted to SPIE Medical Imaging 2023.
+* **October 2022**: Passed CSE dissertation proposal exam
+* **May 2022**: Received Honors (**top 5%**) in the Periodic Review of Doctoral Students (**PRODS 2022*) in WashU CSE
+* **March 2022**: Oral [paper](https://dl.acm.org/doi/pdf/10.1145/3535508.3545547) on explainable AI in healthcare accepted to [ACM BCB 2022](https://acm-bcb.org/2022/) conference
+* **December 2021**: Abstract accepted for oral presentation in AMIA Informatics Summit 2022
+* **August 2021**: [Review paper](https://academic.oup.com/jamiaopen/article/4/3/ooab052/6334269) on machine learning techniques on Alzheimer's Disease diagnosis accepted in JAMIA Open
 -->
 
 For more info
 ------
-Please contact: [faizanansari541@gmail.com](faizanansari541@gmail.com) or [faizanuddin_r@isical.ac.in](faizanuddin_r@isical.ac.in)
+Please contact: [faizanansari541@gmail.com](faizanansari541@gmail.com) or [faizanuddin_r@isical.ac.in](faizanuddin\_r@isical.ac.in)
