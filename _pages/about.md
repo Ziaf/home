@@ -15,7 +15,7 @@ About
 ======
 Welcome to my website. 😀
 
-I am a PhD student at the Indian Statistical Institute, Kolkata. I am working under the supervision of [Professor Swagatam Das](https://www.isical.ac.in/~swagatam.das/) at the Electronics and Communication Sciences Unit, Kolkata.
+I am a PhD student at the Indian Statistical Institute, Kolkata. I am working under the supervision of [Prof. Swagatam Das](https://www.isical.ac.in/~swagatam.das/) at the Electronics and Communication Sciences Unit, Kolkata.
 
 I completed my B.Tech in Computer Engineering from Zakir Husain College of Engineering and Technology, AMU, in 2017, and my M.Tech in Computer Science and Engineering (Specialization in Software Engineering) from the same institution in 2019. My current research focuses on class imbalance learning, long-tailed distribution, explainable AI, and bias mitigation in datasets.
 
