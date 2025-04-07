@@ -53,27 +53,19 @@ Many people use a git client to create files on their local computer and then pu
 
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png) 
-
+-->
 
 ## Recent News
-
-* **April 2025** Our work on "Multimodal Variational Autoencoder: a Barycentric View" has been accepted in AAAI 2025.
+<!---
+* **April 2025** Our work on .
 * **march 2025** Our work on "Multimodal Variational Autoencoder: a Barycentric View" has been accepted in AAAI 2025 as an **oral** presentation. [Preprint](https://arxiv.org/pdf/2412.20487) available.
-* **December 2024** I successfully defended my PhD dissertation titled "Multimodal representation learning frameworks for modeling progression and heterogeneity in Alzheimer's Disease"
 * **October 2024** Our work on [Examining heterogeneity in dementia using data-driven unsupervised clustering of cognitive profiles](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0313425) has been published in PlOS One.
-* **September 2024** Our JAMIA Open paper [HiMAL: Multimodal Hierarchical Multi-task Auxiliary Learning framework for predicting Alzheimer’s disease progression](https://academic.oup.com/jamiaopen/article/7/3/ooae087/7759862?login=true) is now published and online.
+* **September 2024** Our JAMIA Open paper [HiMAL: Multimodal Hierarchical Multi-task Auxiliary Learning framework for predicting Alzheimer’s disease progression](https://academic.oup.com/jamiaopen/article/7/3/ooae087/7759862?login=true) is now published and online.-->
 * **May 2024**: Presented my research (poster) in IEEE ISBI 2024, Athens, Greece.
-* **February 2024**: Paper on Improving multimodal normative modelling using mixture-of-products variational autoencoders accepted in the [IEEE ISBI 2024](https://biomedicalimaging.org/2024/). [Preprint](https://arxiv.org/pdf/2312.00992.pdf) available in ArXiv.
-* **October 2023**: 2 NeurIPS 2023 workshop papers accepted in [XAI-in-action](https://xai-in-action.github.io/) and [Deep Generative Models for Health (DGM4H)](https://sites.google.com/ethz.ch/dgm4h-neurips2023)
-* **May 2023**: Received Honors (**top 5%**) in the Periodic Review of Doctoral Students (**PRODS 2023**) in WashU CSE
-* **February 2023**: Received Student travel award and Robert F. Wagner All-Conference Best Paper Award Finalist at [SPIE Medical Imaging 2023](https://spie.org/conferences-and-exhibitions/medical-imaging/program#_=_)
-* **November 2022**: Oral [paper](https://doi.org/10.1117/12.2654369) on multimodal normative modelling accepted to SPIE Medical Imaging 2023.
-* **October 2022**: Passed CSE dissertation proposal exam
-* **May 2022**: Received Honors (**top 5%**) in the Periodic Review of Doctoral Students (**PRODS 2022*) in WashU CSE
-* **March 2022**: Oral [paper](https://dl.acm.org/doi/pdf/10.1145/3535508.3545547) on explainable AI in healthcare accepted to [ACM BCB 2022](https://acm-bcb.org/2022/) conference
-* **December 2021**: Abstract accepted for oral presentation in AMIA Informatics Summit 2022
-* **August 2021**: [Review paper](https://academic.oup.com/jamiaopen/article/4/3/ooab052/6334269) on machine learning techniques on Alzheimer's Disease diagnosis accepted in JAMIA Open
--->
+* **February 2024**: (Poster) Paper on Mo2E: Mixture of Two Experts for Class-Imbalanced Learning from Medical Images accepted in the [IEEE ISBI 2024](https://biomedicalimaging.org/2024/). [Paper](https://ieeexplore.ieee.org/document/10635212).
+* **April 2023**: (Oral,Poster) Paper on Handling Class Imbalance by Estimating Minority Class Statistics accepted in the [IEEE IJCNN 2023](https://2023.ijcnn.org/). [paper](https://ieeexplore.ieee.org/document/10191975) .
+
+
 
 For more info
 ------
