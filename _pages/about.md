@@ -62,6 +62,7 @@ Example: editing a markdown file for a talk
 * **October 2024** Our work on [Examining heterogeneity in dementia using data-driven unsupervised clustering of cognitive profiles](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0313425) has been published in PlOS One.
 * **September 2024** Our JAMIA Open paper [HiMAL: Multimodal Hierarchical Multi-task Auxiliary Learning framework for predicting Alzheimer’s disease progression](https://academic.oup.com/jamiaopen/article/7/3/ooae087/7759862?login=true) is now published and online.-->
 * **May 2024**: Presented my research (poster) in IEEE ISBI 2024, Athens, Greece.
+* **May 2024**: Our work on [CCO: A Cluster Core-based Oversampling Technique for Improved Class-Imbalanced Learning](https://ieeexplore.ieee.org/document/10555431) has been published in [IEEE TETCI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433297).
 * **February 2024**: (Poster) Paper on Mo2E: Mixture of Two Experts for Class-Imbalanced Learning from Medical Images accepted in the [IEEE ISBI 2024](https://biomedicalimaging.org/2024/). [Paper](https://ieeexplore.ieee.org/document/10635212).
 * **April 2023**: (Oral,Poster) Paper on Handling Class Imbalance by Estimating Minority Class Statistics accepted in the [IEEE IJCNN 2023](https://2023.ijcnn.org/). [paper](https://ieeexplore.ieee.org/document/10191975) .
 
