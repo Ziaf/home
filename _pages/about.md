@@ -6,10 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<!---
 <p style="text-align: right;">فَإِنَّ مَعَ العُسرِ يُسرًا</p> 
 <p style="text-align: right;">"So, surely with hardship comes ease"</p>
-<!--- <p style="text-align: center;">fa-ʾinna maʿa l-ʿusri yusra</p>-->
+ <p style="text-align: center;">fa-ʾinna maʿa l-ʿusri yusra</p>-->
 
 About
 ======
