@@ -2,6 +2,9 @@
 
 {% if site.author.github or site.author.bitbucket or site.atom_feed.hide != true %}
 <div class="page__footer-follow">
+  <quote> <p style="text-align: left;">فَإِنَّ مَعَ العُسرِ يُسرًا</p> 
+<p style="text-align: left;">"So, surely with hardship comes ease"</p>
+</quote>
   <ul class="social-icons">
     {% if site.data.ui-text[site.locale].follow_label %}
       <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
@@ -18,8 +21,6 @@
   </ul>
 </div>
 {% endif %}
-<quote> <p style="text-align: left;">فَإِنَّ مَعَ العُسرِ يُسرًا</p> 
-<p style="text-align: left;">"So, surely with hardship comes ease"</p>
-</quote>
+
   <p></p>
 <div class="page__footer-copyright">&copy; 2023 – {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}<br> Last Updated {{ "now" | date: "%a, %b %d, %Y %H:%M" }}.</div>
