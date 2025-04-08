@@ -10,7 +10,7 @@ main:
   - title: "Academic Service"
     url: /teaching/    
 
-   - title: "Publications"
+  - title: "Publications"
      url: /publications/ 
 
   # - title: "Talks"
